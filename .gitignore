@@ -33,7 +33,7 @@ ehthumbs.db
 Icon?
 Thumbs.dbgit
 
-# Ignore Play! working directory #
+# Ignore directory #
 .idea
 db
 eclipse
@@ -44,3 +44,4 @@ tmp
 test-result
 eclipse
 server.pid
+node_modules
