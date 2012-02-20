@@ -1,6 +1,10 @@
 Welcome to Foundation by Zurb in Express using Jade and Stylus.
 =====================
 
+See demo at, http://smooth-night-4218.herokuapp.com/
+
+=====================
+
 I've started this project to help developers to quickly get up and running with their web projects.
 
 TODO:
